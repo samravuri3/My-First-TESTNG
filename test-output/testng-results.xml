@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-18T21:47:20 IST" name="Default suite" finished-at="2023-10-18T21:47:20 IST" duration-ms="438">
+    <groups>
+    </groups>
+    <test started-at="2023-10-18T21:47:20 IST" name="Default test" finished-at="2023-10-18T21:47:20 IST" duration-ms="438">
+      <class name="read_XLFile.Excel_sample_reading">
+        <test-method signature="read_excel_file_aspercondition()[pri:0, instance:read_XLFile.Excel_sample_reading@36a5cabc]" started-at="2023-10-18T21:47:20 IST" name="read_excel_file_aspercondition" finished-at="2023-10-18T21:47:20 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_excel_file_aspercondition -->
+      </class> <!-- read_XLFile.Excel_sample_reading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

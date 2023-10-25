@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T23:12:57 IST" name="childsupportsuite" finished-at="2023-10-17T23:13:05 IST" duration-ms="8084">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T23:12:57 IST" name="Contact Us pagevalidation" finished-at="2023-10-17T23:13:05 IST" duration-ms="8084">
+      <class name="testing.TC_003">
+        <test-method is-config="true" signature="launch_application(java.lang.String)[pri:0, instance:testing.TC_003@1e0b4072]" started-at="2023-10-17T23:12:57 IST" name="launch_application" finished-at="2023-10-17T23:13:02 IST" duration-ms="5149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://childsupport.ca.gov//]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_application -->
+        <test-method signature="test_homepage_1(java.lang.String,java.lang.String)[pri:0, instance:testing.TC_003@1e0b4072]" started-at="2023-10-17T23:13:02 IST" name="test_homepage_1" finished-at="2023-10-17T23:13:05 IST" duration-ms="2327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CA Child Support Services]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://childsupport.ca.gov//]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_homepage_1 -->
+        <test-method is-config="true" signature="close_appliation()[pri:0, instance:testing.TC_003@1e0b4072]" started-at="2023-10-17T23:13:05 IST" name="close_appliation" finished-at="2023-10-17T23:13:05 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_appliation -->
+      </class> <!-- testing.TC_003 -->
+    </test> <!-- Contact Us pagevalidation -->
+  </suite> <!-- childsupportsuite -->
+</testng-results>
